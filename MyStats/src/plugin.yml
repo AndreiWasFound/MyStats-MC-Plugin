@@ -1,0 +1,7 @@
+main: me.AndreiWasFound.MyStats.Main
+author: AndreiWasFound
+name: MyStats
+version: 1.0
+
+commands:
+  mystats:
